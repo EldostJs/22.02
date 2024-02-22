@@ -1,0 +1,43 @@
+.card{
+    border-style: solid;
+    border-color: gray;
+    background-color: rgb(177, 177, 177);
+    width: 350px;
+    height: 400px;
+    margin-left: 50px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.photo{
+    background-color: gray;
+    border-style: solid;
+    width: 220px;
+    height: 220px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.p1{
+    text-align: center;
+    padding-top: 55px;
+    font-size: xx-large;
+    font-weight: 900;
+    color: white;
+}
+.p2{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+}
+.p3{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+.cards2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
